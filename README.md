@@ -7,6 +7,7 @@ Database: MongoDB
 Databse entry for different users in MongoDB database:
 
 
-![Screenshot (280)](https://github.com/Vkpro55/xenon-final/assets/83464767/eb2a9411-0b38-47a8-9ea3-c4ab0276d98a)
+![Screenshot (282)](https://github.com/Vkpro55/xenon-final/assets/83464767/c8ecbc1b-084b-404f-87ae-9437d3fb7468)
 
-![Screenshot (280)](https://github.com/Vkpro55/xenon-final/assets/83464767/7dcc1699-b665-47ef-a10c-4e8165b05809)
+![Screenshot (283)](https://github.com/Vkpro55/xenon-final/assets/83464767/a99c31dd-f0e6-49cb-ad74-dab08f0ebcc7)
+
