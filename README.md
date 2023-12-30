@@ -2,9 +2,7 @@ This is Xenon Stack technical round assignment. Build a responsive three page we
 
 
 Deployment of All three pages on netlity:-
-https://sensational-pie-94f054.netlify.app/ || 
-https://endearing-froyo-1e6e03.netlify.app/ ||
-https://tiny-unicorn-d02525.netlify.app/
+Landing on car shop page :- https://sensational-pie-94f054.netlify.app/ || Landing on shopping watch:- https://endearing-froyo-1e6e03.netlify.app/ || Landing on shopping modern-chairs:- https://tiny-unicorn-d02525.netlify.app/ || Final project:- https://xenon-project-gn3p.onrender.com/
 
 Databse entry for different users in MongoDB database:
 
