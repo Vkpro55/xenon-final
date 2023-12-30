@@ -1,6 +1,11 @@
 This is Xenon Stack technical round assignment. Build a responsive three page wesbite containing cars selling, watch selling and chair selling website. ||  Front-end Tech stacks:- Html, Css, Javascript || Back-end Tech stack:- Nodejs,  Ejs || Database: MongoDB
 
 
+Deployment of All three pages on netlity:-
+https://sensational-pie-94f054.netlify.app/
+https://endearing-froyo-1e6e03.netlify.app/
+https://tiny-unicorn-d02525.netlify.app/
+
 Databse entry for different users in MongoDB database:
 
 
